@@ -1,0 +1,2 @@
+mq1,mq2节点为镜像模式
+rabbitmqctl set_policy ha "^"    '{"ha-mode":"nodes","ha-params":["mq1@mq1","mq2@mq2"],"ha-sync-mode":"automatic"}'
