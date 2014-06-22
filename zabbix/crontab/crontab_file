@@ -1,0 +1,2 @@
+0 * * * * /opt/script/iostat.sh > /tmp/iostat_output 2>&1
+* * * * * /usr/bin/php /opt/zabbix/bin/zabbix_rabbitmq_plugin.php
