@@ -1,0 +1,21 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+192.168.2.10	manager 	
+192.168.2.11	lens1		
+192.168.2.12	lens2		
+192.168.2.13	dc1		
+192.168.2.14	dc2		
+192.168.2.15	mq1		
+192.168.2.16	mq2		
+192.168.2.17	amoeba1		
+192.168.2.18	amoeba2		
+192.168.2.19	db1master	
+192.168.2.20	db1slave1	
+192.168.2.21	db2master	
+192.168.2.22	db2slave1	
+192.168.2.23	redis1
+192.168.2.24	mq3
+192.168.2.26	mq4
+192.168.2.27	redis2
+192.168.2.110   redirect.networkbench.com
+192.168.1.7		passport.dev.networkench.com
